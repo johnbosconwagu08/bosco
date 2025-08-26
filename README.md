@@ -7,5 +7,4 @@ my_list2=[50,60,70]
 for number in my_list2:
   my_list1.append(number)
 my_list1
-
 my_list1[3]
